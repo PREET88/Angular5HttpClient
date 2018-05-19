@@ -1,0 +1,6 @@
+C:\Classes\COMP308\Examples\2018\Week7\Angular5HttpClient\Angular5HttpClient\obj\Debug\Angular5HttpClient.njsprojResolveAssemblyReference.cache
+C:\Classes\COMP308\Examples\2018\Week7\Angular5HttpClient\Angular5HttpClient\obj\Debug\Angular5HttpClient.njsproj.CoreCompileInputs.cache
+C:\Classes\COMP308\Examples\2018\Week7\Angular5HttpClient\Angular5HttpClient\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Classes\COMP308\Examples\2018\Week8\Angular5HttpClient\Angular5HttpClient\obj\Debug\Angular5HttpClient.njsprojResolveAssemblyReference.cache
+C:\Classes\COMP308\Examples\2018\Week8\Angular5HttpClient\Angular5HttpClient\obj\Debug\Angular5HttpClient.njsproj.CoreCompileInputs.cache
+C:\Classes\COMP308\Examples\2018\Week8\Angular5HttpClient\Angular5HttpClient\bin\Microsoft.NodejsTools.WebRole.dll
